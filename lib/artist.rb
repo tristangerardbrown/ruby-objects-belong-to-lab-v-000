@@ -6,3 +6,5 @@ attr_accessor :name
   end
 
 end
+
+artist = Artist.new 
